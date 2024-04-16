@@ -1,7 +1,7 @@
 CRUD Application with Admin/user Authentication
 
-Frontend - Angular
-Backend - Node with Express js
+Frontend - Angular, 
+Backend - Node with Express js, 
 Database - MySQL
 
 
