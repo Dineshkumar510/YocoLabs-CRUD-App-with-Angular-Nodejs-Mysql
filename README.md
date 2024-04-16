@@ -1,4 +1,4 @@
-CRUD Application with Admin/user Login Authentication
+CRUD Application with Admin/user Authentication
 
 Frontend - Angular
 Backend - Node with Express js
